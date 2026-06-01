@@ -7,6 +7,6 @@ ELIGIBILITY
 - so you can use VSCode also
 - in kali you just have to saved the password list as the name of passwords.txt in that same folder where you save the code
 - same for the VSCode
-- 
+
   HOO TO GAYA OR KITNA
   *RESULT AATE HI UPLOAD NAHI KIYA KYUKI KUCH KAAM TIME AANE PAR HI KARNA CHAYIA NAHI TO LODE LAG JATE HAI*
