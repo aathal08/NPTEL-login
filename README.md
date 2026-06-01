@@ -4,7 +4,7 @@ This is just a so called Educational Purposes
 
 
 
-ELIGIBILITY 
+REQUIREMENT 
 - you just have to be a idiot those who doesn't care of fucking anything
 - and CHULL to see the result of your friends because LODE JAB MERE LAGE TO DEKHU TO SAHI OR KITNE KE LAGE HAI
 - python installed in your system i suggest use Kali Linux TUM KIDHAR HI SUNNE WALO HO MERI
