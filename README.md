@@ -3,6 +3,7 @@ This is just a so called Educational Purposes
 *AND ONE MORE THING KUCH MAT KARNA JUST CHANGE THE EMAIL ID AND NOTHING ELSE*
 
 *YE KOI HACKING NAHI HAI BC IT'S A BRUTEFORCE*
+
 ELIGIBILITY 
 - you have to be idiot those who doesn't care of fucking anything
 - and CHULL to see the result of your friends because LODE JAB MERE LAGE TO DEKHU TO SAHI OR KITNE KE LAGE HAI
