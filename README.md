@@ -11,6 +11,7 @@ ELIGIBILITY
 - so you can use VSCode also
 - in kali you just have to saved the password list as the name of passwords.txt in that same folder where you save the code
 - same for the VSCode
+- and use Chatgpt to get passwords list as txt format and paste the txt file in same folder where your code 
 
   HOO TO GAYA OR KITNA
   
